@@ -22,8 +22,22 @@ I am confident that my hard work and constant desire for new knowledge and skill
 
 ## Skills:
 
+- HTML5
+- CSS3
+- JavaScript Basics
+- Git, GitHub
+
 ## Code Examples:
 
 ## Education:
 
+- **University:** Tyumen State Institute of Culture, Music pedagogy major
+
+- **Courses:** 
+    * JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/)
+    * [Git: курс](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
+
 ## Languages:
+
++ Russian - Native
++ English - Intermediate
