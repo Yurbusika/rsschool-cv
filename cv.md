@@ -29,6 +29,15 @@ I am confident that my hard work and constant desire for new knowledge and skill
 
 ## Code Examples:
 
+Solutions for Kata [`Square Every Digit`](https://www.codewars.com/kata/546e2562b03326a88e000020):
+
+```javascript
+    function  squareDigits(num) {
+
+        return +num.toString().split('').map((e) => e**2).join('');
+    }
+```
+
 ## Education:
 
 - **University:** Tyumen State Institute of Culture, Music pedagogy major
